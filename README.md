@@ -2,5 +2,5 @@
 
 
 ## about
-this is a thing yes yes
+this is a thing yes yes.
 find me [here](https://github.com/Sumkrow). 
